@@ -1,0 +1,12 @@
+name = "Vault Hunters 3rd Edition"
+version = "3.10.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1b955c1644a9a230bb0ad4b6f423401ac6ac57dd44e64c6e282538dcfc9c0529"
+
+[versions]
+forge = "40.2.1"
+minecraft = "1.18.2"
