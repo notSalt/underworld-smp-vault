@@ -8253,8 +8253,18 @@ hash = "e4c9a4a844e0a2532dbdedef7dae63b5a3f9a7e26b498e38d01ccc03bb4d72d4"
 metafile = true
 
 [[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "5438b2bd6600929c044886550008e7d1d002e8ac59cd9751359dbecb8a504bd4"
+metafile = true
+
+[[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "2122a8e7c979649586f69ad7d67bc9e7765c4495147f8f93f4d86237c095eed8"
+metafile = true
+
+[[files]]
+file = "mods/better-fps-render-distance.pw.toml"
+hash = "9e66f32990ecd4cb815cc9c434848e5768d53996f5e2b6ba1f35b88d5ab7aa1d"
 metafile = true
 
 [[files]]
@@ -8293,6 +8303,11 @@ hash = "676147473a141e8fffdee6c1fa64857fac754e714bdf546ac7f8abaf747c129a"
 metafile = true
 
 [[files]]
+file = "mods/canary.pw.toml"
+hash = "928215886a4e38fc92792a8158e9ebe76e301be59c33b9d9e2dea0255c0e03f9"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "dbe6a9e42390a6e5fa08ebd31c44567981ec8face7afff290930d542bd87f6e7"
 metafile = true
@@ -8325,6 +8340,11 @@ metafile = true
 [[files]]
 file = "mods/compressium.pw.toml"
 hash = "d8f0f75951f5dbcdb0248a7862bec0810125f6b23e9551a4d8e3e56f9a6dde27"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "47a3657156bc4c1efa3e86f5cf9a5ed9b5978a3ecc56248f2ac5398d38c3a729"
 metafile = true
 
 [[files]]
@@ -8373,6 +8393,11 @@ hash = "7c1d958682751676771662814e04d6d7a842e4a1c3634f1ab1747fedbebdb3fa"
 metafile = true
 
 [[files]]
+file = "mods/customskinloader.pw.toml"
+hash = "566dcf12f2cbf33b36f8e1b934f57fb3527d909316dec09785f52c970b07ba1b"
+metafile = true
+
+[[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "80a4fb51fe646c4f56c6cef6950dfb4ec90a948e26f3c6024fb9bfc3027e5fa6"
 metafile = true
@@ -8390,6 +8415,11 @@ metafile = true
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "36e8e0bf6ec1a40102e301639e13b2d9f66ccf1726363e0d319ebba244234e4a"
+metafile = true
+
+[[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "b9a21042c55e75256e733b18b41223111e27b5af4bdb45f2570f1b7be3c9b2d3"
 metafile = true
 
 [[files]]
@@ -8518,13 +8548,23 @@ hash = "51d72f9126ded6e791bd2cc85c1d483a6179606f77cdd57ebbcbd09eb2075f68"
 metafile = true
 
 [[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "2eb08ed9ad96652c2da67e9faf59fc7332436e14587417d3de1ad0fb8376db37"
+hash = "4bd9e409af22a8c79c767378e69e614f81d9267045cd80964660f06bd402c13d"
 metafile = true
 
 [[files]]
 file = "mods/libnonymous.pw.toml"
 hash = "35fabe0ac1bebd7cd8530db45a164838ee1a5687cefcb6bbef2b5d42afac8701"
+metafile = true
+
+[[files]]
+file = "mods/lightspeedmod.pw.toml"
+hash = "df559ca6ce0d046b0be06191a76ddcbf0fc715a2bfa0e171d4c57ccd2d5ca5d6"
 metafile = true
 
 [[files]]
@@ -8568,6 +8608,11 @@ hash = "6800b344bb3a658b88d78c5c205a213c6dfcc26cd98a4d4716ca929fc393c357"
 metafile = true
 
 [[files]]
+file = "mods/magnesium-extras.pw.toml"
+hash = "2c622839003e9008c0d3f891c6b376ec59ccb56289320c96d72093323bd0205a"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "9f33ad46094198693346e70eb7311d195c3b5adfa54c82c6b9f3116403b37ee3"
 metafile = true
@@ -8603,6 +8648,11 @@ hash = "543cae965a82c348b1a64fce5b3d7a4690970b6db6f38518c6f99771cec9a387"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "0ebb101d7eaa92284c55b305e2b8dbca14c467d460f1ff5dc9cd18b2d0833035"
+metafile = true
+
+[[files]]
 file = "mods/modular-routers.pw.toml"
 hash = "345939a40a69469bfb53e1f6650959757f26583eede75de734b2ed5bdb64f69b"
 metafile = true
@@ -8624,7 +8674,12 @@ metafile = true
 
 [[files]]
 file = "mods/neon-craft-2-mod.pw.toml"
-hash = "f1450ab736361bb4c232312b7144deded811c92ba8ec0740b1011937a9548b40"
+hash = "06d3a1d797efa89ac419947780a4b39f3946e93552426fdf8ebc704e44fd3041"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "e06240634ffc0160925d15dc99c0f6d765c04bc303fb118d76c2f6cac38eed69"
 metafile = true
 
 [[files]]
@@ -8673,6 +8728,11 @@ hash = "7949825f50711920d0faa98470f65a33a7ff48a40e735e1f5efb616e325e1992"
 metafile = true
 
 [[files]]
+file = "mods/pluto.pw.toml"
+hash = "d157980f6e4b7a62b870b9a86aafb8f07342800a6ffcffb945567c6b5203af2e"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "d4677399c0f83cff3940707bebd706110490c6b047bfc51fcfc077e30e5ec775"
 metafile = true
@@ -8699,7 +8759,7 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.pw.toml"
-hash = "8d58265c582e12173f24f8c5e488173c30b8fa36006e346fc3470f20ce000a8b"
+hash = "e26268a14e951de3ea88c8837264bfb73db2c846c14087bfadcd42512b4c20bb"
 metafile = true
 
 [[files]]
@@ -8729,7 +8789,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "fb77d538004a30c70e644413abce31a9b72edaeaf6baad799129039717d8a8b4"
+hash = "839f962344040ce06f92007035fb4a3d1900c4f03bd8047c0c008b44afc900f8"
 metafile = true
 
 [[files]]
@@ -8798,6 +8858,11 @@ hash = "876452c253d68cd71df35dfcb9dd4438ebb5c2470c09b01ed19a16fd37f46436"
 metafile = true
 
 [[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "54c75491338b09fd7ec57fe5a2e5cd89d6891ee46d069fbd94722f3869a68c38"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "b5e478bee6fd909d03453c2bdac37211e65d983a92a383ae4cb8975a9e493ad9"
 metafile = true
@@ -8854,7 +8919,7 @@ metafile = true
 
 [[files]]
 file = "mods/torohealth-damage-indicators.pw.toml"
-hash = "0f1512b797ce79834078161cea88a1a63f76c869f8e20c6064f8c5f74eec24e2"
+hash = "1f24411dd8081249aaf0fb8a9e9c524849cfe8e2b4f4588114f0ff4f9c64c2a5"
 metafile = true
 
 [[files]]
