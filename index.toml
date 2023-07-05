@@ -9458,3 +9458,8 @@ hash = "04108b1efb14d9f53e10acb26dc056e02185635236bfcddea983faac74a01f19"
 [[files]]
 file = "scripts/mushroomEvents.zs"
 hash = "2d9330b07464e34f9a6d8d84be9d01c98425a6dc5bbb29b58e98f5325a8f59df"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "0dcb6f9468e885b75d93ea7cd1e32df75c77315df1bc4dc5e2b0348bddb5dd70"
+metafile = true
