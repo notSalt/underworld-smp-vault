@@ -557,10 +557,6 @@ file = "config/equipmentcompare-common.toml"
 hash = "043f75a8f1da465d21357dd118f52efda26b16f7607756593b7c8e47dd2ae73b"
 
 [[files]]
-file = "config/everycomp-registry-1.toml.bak"
-hash = "b72f2ae563d83b1ae054df7527c8f3a532c68c057e67a53b51e76def36d9334b"
-
-[[files]]
 file = "config/everycomp-registry.toml"
 hash = "90dc4e5ad06c59a45f1a405229cde287337f33b44c0dfcfacd59c503f8a0adb4"
 
@@ -919,10 +915,6 @@ hash = "e8941da44effef727eef15f3d16f08d393ad640b1734fae6e2a693f2241527d8"
 [[files]]
 file = "config/storagenetwork.toml"
 hash = "7f8d56d09201cef633996be90d0214b45f5e25cfbf474483538dd7039c305b7b"
-
-[[files]]
-file = "config/supplementaries-client-1.toml.bak"
-hash = "5e44e500036d6d503b1dc40783f60c3338815e73c736b5923a11cef837671c4f"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -8308,6 +8300,11 @@ hash = "928215886a4e38fc92792a8158e9ebe76e301be59c33b9d9e2dea0255c0e03f9"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "3882c802ffa760a9c7581bb04bde212173edb903d54a931c5cbdf83eff6053b9"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "dbe6a9e42390a6e5fa08ebd31c44567981ec8face7afff290930d542bd87f6e7"
 metafile = true
@@ -8358,6 +8355,11 @@ hash = "12ca499aff1c91c2e2ec3d094d4b9d6799bc2d2c8445827ed2ca07419f323605"
 metafile = true
 
 [[files]]
+file = "mods/corn-delight.pw.toml"
+hash = "d2cb726e8f3858610f8532b6e85891f6cf13dd3caf71d1caf9942bdecc6e5676"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "4f4d1b11afed0ce9c7723f0e5d13806c195930583887cc8fcaa5682e48a6b08d"
 metafile = true
@@ -8380,6 +8382,11 @@ metafile = true
 [[files]]
 file = "mods/createtweaker.pw.toml"
 hash = "7167f524b5bdf8ecb04380f21bcad86a0e86cfd302614c20dfb14588b213d4a9"
+metafile = true
+
+[[files]]
+file = "mods/ctm.pw.toml"
+hash = "aaeab662940679b8ef5074189d480bd04934334bc32d29931538c8bf2d7050cd"
 metafile = true
 
 [[files]]
@@ -8448,6 +8455,11 @@ hash = "769c1fcb95cfb5efb1415b13629a0035e0ce67f48b64d1a0681efd95dde447f2"
 metafile = true
 
 [[files]]
+file = "mods/everlasting-skins.pw.toml"
+hash = "176f0cfe71741c87bd1f6459d1d33f8c23cff35ee7501aeec458b5a8e650cedd"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "8685740adfb2f4a19aa0a825be66bef0c4885f608e247aa7ca9a0caa87e42a49"
 metafile = true
@@ -8455,6 +8467,11 @@ metafile = true
 [[files]]
 file = "mods/fairy-lights.pw.toml"
 hash = "828ff9c88dbde0e819795cd631ad91c9530cf4af1b7546a9a5e88ebc16be4606"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "223a1dedd2d506e656945a9ff1b62ea56306b813a8df823a0d936b16a2812496"
 metafile = true
 
 [[files]]
@@ -8668,6 +8685,16 @@ hash = "eab360710dfebe9b6f7f5c260acfc8275663db2245c85a1e436a78d8e7531dd5"
 metafile = true
 
 [[files]]
+file = "mods/music-maker-mod.pw.toml"
+hash = "e81ef7ac449eacd9765756738204deb7c3dcd01e4d90038b09623721041546f7"
+metafile = true
+
+[[files]]
+file = "mods/mysterious-mountain-lib.pw.toml"
+hash = "54b8766d0437c2c72939fd7dbf9b941cd964100a9389b9eb6d777e0b2015f3ad"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "e3b607348fc4084c8aece8cccaa3c58af8d12e518c305bdbe044eabc2bb0b472"
 metafile = true
@@ -8675,6 +8702,11 @@ metafile = true
 [[files]]
 file = "mods/neon-craft-2-mod.pw.toml"
 hash = "06d3a1d797efa89ac419947780a4b39f3946e93552426fdf8ebc704e44fd3041"
+metafile = true
+
+[[files]]
+file = "mods/nethers-delight.pw.toml"
+hash = "c2d9646b499b29682e9425ecf809be000069ac01eb61430cb367ddf1b7e63255"
 metafile = true
 
 [[files]]
@@ -8695,6 +8727,11 @@ metafile = true
 [[files]]
 file = "mods/packmenu.pw.toml"
 hash = "5ee904a56a31cf02a865dae929e1c2ea874402f8a9183dca891df052445c1f26"
+metafile = true
+
+[[files]]
+file = "mods/paladins-furniture.pw.toml"
+hash = "3c70a27bf469e5ae39da1e83f410e81365b16233fd4be86b1ccf23d42a6a0de1"
 metafile = true
 
 [[files]]
