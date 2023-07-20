@@ -5,8 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "0b1dd4b39a78ed58f1ccb21bd30e572d0f19ea9b"
-mode = "url"
-url = "https://files.notsalt.com/mods/neoncraft2-2.2.jar"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
